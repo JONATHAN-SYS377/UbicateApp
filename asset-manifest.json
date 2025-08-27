@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68655559.css",
+    "main.js": "/static/js/main.77091343.js",
+    "static/js/239.a3ada6e5.chunk.js": "/static/js/239.a3ada6e5.chunk.js",
+    "static/js/977.98bc9dfc.chunk.js": "/static/js/977.98bc9dfc.chunk.js",
+    "static/js/732.9905f9df.chunk.js": "/static/js/732.9905f9df.chunk.js",
+    "static/js/453.66f11511.chunk.js": "/static/js/453.66f11511.chunk.js",
+    "static/media/Logo2024-12.png": "/static/media/Logo2024-12.c6d8627418decc8c23a7.png",
+    "static/media/Logo2024-11.png": "/static/media/Logo2024-11.a555a8a68b0435448db3.png",
+    "static/media/RestauranTech1.21.png": "/static/media/RestauranTech1.21.e0e773c6e3f8ca722322.png",
+    "static/media/Logo-Ubicate.png": "/static/media/Logo-Ubicate.7a2d37807f385354ba71.png",
+    "static/media/Camara plus.png": "/static/media/Camara plus.d2f44159b9041e0b9037.png",
+    "index.html": "/index.html",
+    "main.68655559.css.map": "/static/css/main.68655559.css.map",
+    "main.77091343.js.map": "/static/js/main.77091343.js.map",
+    "239.a3ada6e5.chunk.js.map": "/static/js/239.a3ada6e5.chunk.js.map",
+    "732.9905f9df.chunk.js.map": "/static/js/732.9905f9df.chunk.js.map",
+    "453.66f11511.chunk.js.map": "/static/js/453.66f11511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68655559.css",
+    "static/js/main.77091343.js"
+  ]
+}
